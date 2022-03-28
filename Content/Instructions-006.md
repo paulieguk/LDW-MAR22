@@ -3,7 +3,7 @@
 In Lab 3 you will build a class and run labs within that class.  This will allow you to see the Lab Monitoring feature, often shown within the Skillable TMS, accessed via API.  This feature requires two steps for setup.
 
 1. Create a Class
-1. Retrive the Instructor Lab Monitor URL
+1. Retrieve the Instructor Lab Monitor URL
 1. Launch a lab within the Class
 
 ### Lets build a Class

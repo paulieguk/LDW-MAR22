@@ -6,7 +6,7 @@
 The Launch API copmmand is discussed [here](https://docs.skillable.com/lod/lod-api/lod-api-launch.md).  It has a number of required parameters and will accept a lot of optional paramters.  We will only use a couple
 
 - [] In Postman select the **GET Launch** option from the Lab On Demand Postman Collection
-- [] Complete the Launch paramters as follows, if a parameter is listed below but not in the sample add it and if the parameter is listed in Postman but not below remove the tick, note you might need to scroll the Detials window up.
+- [] Complete the Launch paramters as follows, if a parameter is listed below but not in the sample add it and if the parameter is listed in Postman but not below remove the tick, note you might need to scroll the Details window up.
 
 | Parameter Name | Value |
 | ------ | ------|
